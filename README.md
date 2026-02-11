@@ -25,4 +25,8 @@ This setup is suitable for:
 - Long-term scientific projects
 - Migration between multiple computers or servers
 
----
+## Documentation
+
+Step-by-step installation and configuration guides are available in the
+[`docs/`](docs/) directory.
+
